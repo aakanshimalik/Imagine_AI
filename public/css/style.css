@@ -10118,6 +10118,7 @@ footer .content {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+  background-color: #4f3c51;
 }
 
 footer .content p,
